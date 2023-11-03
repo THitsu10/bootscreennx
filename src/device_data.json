@@ -93,7 +93,6 @@
 	"bootloader_timing": ["now", "on boot"],
 	"bootloader_name": [
 		"Hekate",
-		"Hekate & NYX",
-			
-	],
+		"Hekate & NYX"	
+	]
 }
